@@ -19,7 +19,7 @@ use Ramsey\Uuid\Uuid;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
-us| Hash;
+use Hash;
 use Validator;
 
 use App\Models\User;

@@ -31,8 +31,8 @@ class UsersSeeder extends Seeder {
         $user = new User;
 
         $user->uuid              = Uuid::uuid4();
-        $user->email             = 'usuario@idepixel.com';
-        $user->password          = bcrypt('idepixel');
+        $user->email             = 'user@user.com';
+        $user->password          = bcrypt('password');
         $user->verified          = true;
         $user->email_token       = false;
         $user->email_verified_at = Carbon::now();
