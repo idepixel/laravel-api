@@ -27,7 +27,7 @@ Laravel API es la base ideal para iniciar el desarrollo de un proyecto completo,
 |Inicio de sesión con opción "recuérdame" (remember)|
 
 ### Instrucciones de instalación
-1. Ejecuta desde la terminal `git clone https://github.com/idepixedl/laravel-api.git laravel-api`
+1. Ejecuta desde la terminal `git clone https://github.com/idepixel/laravel-api.git laravel-api`
 2. Crea una nueva base de datos para el proyecto
     * ```mysql -u root -p```, si usas Vagrant: ```mysql -u homestead -psecret```
     * ```create database laravel-api;```
